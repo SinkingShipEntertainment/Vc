@@ -7,3 +7,7 @@ vc-benchmarks
 .makeApidox.stamp
 .makeApidox.stamp.new
 build-*
+
+# SSE
+_rez_build
+.vscode
